@@ -11,7 +11,7 @@ Make sure you have Node.js installed on your system before running the applicati
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/youruser/repo-name.git](https://github.com/Anyel-ec/Friends-List-Application-Using-Express-Server-with-JWT
+git clone https://github.com/Anyel-ec/Friends-List-Application-Using-Express-Server-with-JWT
 ```
 
 2. Navigate to the project directory:
